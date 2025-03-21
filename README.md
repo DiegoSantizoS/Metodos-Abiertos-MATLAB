@@ -1,1 +1,3 @@
-# M-todos-Abiertos-MATLAB
+# Métodos-Abiertos-MATLAB
+DIEGO FERNANDO SANTIZO SAMAYOA
+0901-22-15950
